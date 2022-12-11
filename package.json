@@ -1,0 +1,19 @@
+{
+  "name": "uplayableanimation",
+  "displayName": "uPlayableAnimation",
+  "version": "0.1",
+  "unity": "2021.3",
+  "description": "Unity Playables API integration assets.",
+  "licence": "MIT",
+  "author": {
+    "name": "Default"
+  },
+  "keywords": [
+    "playable",
+    "playablegraph",
+    "animation",
+    "timeline"
+  ],
+  "dependencies": {
+  }
+}
